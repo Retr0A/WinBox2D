@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinBox2D", "WinBox2D\WinBox2D.csproj", "{329ACA7E-0E3D-49FC-ACF5-58AFCCFDABFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{36FECDE2-F232-45FB-BE37-DB43F50A63FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329ACA7E-0E3D-49FC-ACF5-58AFCCFDABFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329ACA7E-0E3D-49FC-ACF5-58AFCCFDABFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329ACA7E-0E3D-49FC-ACF5-58AFCCFDABFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329ACA7E-0E3D-49FC-ACF5-58AFCCFDABFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36FECDE2-F232-45FB-BE37-DB43F50A63FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36FECDE2-F232-45FB-BE37-DB43F50A63FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36FECDE2-F232-45FB-BE37-DB43F50A63FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36FECDE2-F232-45FB-BE37-DB43F50A63FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {348C3A5F-B370-443E-B1C9-426E1BD29EEE}
+	EndGlobalSection
+EndGlobal
